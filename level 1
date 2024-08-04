@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="styles.css" />
-    <title>Aditya Landing Page</title>
+    <title> Landing Page</title>
   </head>
   <body>
     <header>
@@ -27,16 +27,12 @@
 
     <footer>
       <p>
-        &copy; 2023 Your Company. All rights reserved.<br />
-        Owner- Aditya Konda <br />
+        &copy; 2023 Your Company. All rights reserved.
         Web Development Internship (Level 1:- Task 1)
       </p>
     </footer>
   </body>
 </html>
-*********************************************************************************
-
-#CSS CODE
 
 /* Reset some default browser styles */
 body,
